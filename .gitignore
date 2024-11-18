@@ -1,0 +1,32 @@
+# Бинарные файлы
+*.exe
+*.dll
+*.so
+*.dylib
+*.out
+
+# Каталоги сборки
+/build/
+bin/
+dist/
+
+# Кэш и временные файлы Go
+*.log
+*.tmp
+*.lock
+*.swp
+*.DS_Store
+*.idea/
+*.vscode/
+*.env
+
+# Скомпилированные файлы пакетов
+*.a
+
+# Файлы тестов и отчетов
+test-results/
+*.coverprofile
+
+# Go workspace files
+*.mod
+*.sum
